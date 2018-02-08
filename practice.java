@@ -5,7 +5,7 @@ public class practice{
 
       String name;
       String input;
-      Int age = 0;
+      int age = 0;
 
       System.out.print("Enter your name: ");
       name = in.nextLine();
