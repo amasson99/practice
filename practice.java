@@ -14,7 +14,7 @@ public class practice{
       input = in.nextLine();
       age = Integer.parseInt(input);
 
-      System.out.println("Hello, " + name + ". You will be " + (age + 1) + "on your next birthday");
+      System.out.println("Hello, " + name + ". You will be " + (age + 1) + " on your next birthday");
 
     in.close();
   }
