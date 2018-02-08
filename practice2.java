@@ -7,12 +7,12 @@ public class practice2{
       prev = i;
       total += prev;
     }*/
-    while (i<1000){
+    do{
       i += 2;
       prev = i;
       total += i;
 
-    }
+    }while(i<= 1000);
     System.out.println(total);
 
   }
